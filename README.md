@@ -1,2 +1,2 @@
-# fomo-sans
+# Fomo Sans
 Fomo Sans typeface
