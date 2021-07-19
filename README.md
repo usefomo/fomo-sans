@@ -1,4 +1,6 @@
-# Fomo Sans
+![Fomo Sans preview](fomo-sans-preview.png?raw=true)
+
+# fomo-sans
 Fomo Sans typeface
 
 ## Installation
